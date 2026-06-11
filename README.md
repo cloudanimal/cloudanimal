@@ -9,6 +9,7 @@ I build the automation and data layers that make VM programs work: scan-to-remed
 | Repo | What it shows |
 |---|---|
 | **[remediation-playbooks](https://github.com/cloudanimal/remediation-playbooks)** | The flagship: remediation scripts + runbooks (detect → fix → validate → rollback), one folder per finding |
+| [kev-watch](https://github.com/cloudanimal/kev-watch) | Daily CISA KEV diff alerter — new confirmed-exploited CVEs straight to your security channel |
 | [vuln-prioritization-toolkit](https://github.com/cloudanimal/vuln-prioritization-toolkit) | EPSS + KEV + NIST LEV enrichment → ranked remediation queue |
 | [patch-tuesday-analyzer](https://github.com/cloudanimal/patch-tuesday-analyzer) | MSRC API → instant Patch Tuesday triage briefing |
 | [pytenable-automation-examples](https://github.com/cloudanimal/pytenable-automation-examples) | Production patterns for Tenable automation: agent health, exports, SLA reporting |
